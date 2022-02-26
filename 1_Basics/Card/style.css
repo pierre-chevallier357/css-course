@@ -1,0 +1,27 @@
+.card {
+  margin: 0 auto;
+  width: 250px;
+  display: grid;
+  margin-top: 50%;
+}
+
+.text-card {
+  background-color: #333333;
+  color: white;
+  margin: 0;
+  padding: 10px;
+  padding-top: 5px;
+  border-radius: 0 0 10px 10px;
+}
+
+h2 {
+  margin: 5px 0;
+}
+
+p {
+  margin: 0;
+}
+
+img {
+  border-radius: 10px 10px 0 0;
+}

@@ -1,0 +1,55 @@
+.box1 {
+  background-color: salmon;
+  display: block;
+}
+
+.box2 {
+  background-color: teal;
+  color: white;
+  display: block;
+}
+
+.box3 {
+  background-color: salmon;
+  display: inline;
+}
+
+.box4 {
+  background-color: teal;
+  color: white;
+  display: inline;
+}
+
+.box5 {
+  background-color: salmon;
+  display: inline-block;
+  width: 100px;
+}
+
+.box6 {
+  background-color: teal;
+  color: white;
+  display: inline-block;
+  height: 30px;
+}
+
+.box7 {
+  background-color: salmon;
+  display: none;
+}
+
+.box8 {
+  background-color: teal;
+  color: white;
+  display: none;
+}
+
+.my-img {
+  border-radius: 20px;
+}
+
+.my-responsive-img {
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+}
