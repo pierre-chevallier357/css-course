@@ -13,3 +13,17 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+h1 {
+  font-size: 50px;
+  /* letter-spacing: 5px;*/
+  color: rgb(225, 217, 252);
+  background-color: rgb(42, 19, 121);
+  margin: 0;
+  text-align: center;
+  font-style: oblique;
+  font-weight: 900;
+  line-height: 2;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
